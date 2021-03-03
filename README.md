@@ -1,7 +1,7 @@
-<h3 align="center">:heart: Hi, I'm Purpzie</h3>
+<h3 align="center">:heart: Hi, I'm Purpzie.</h3>
 
 <p align="center">
-  <img src="https://discord.com/api/guilds/368499635674808331/widget.png?style=shield"/><br>
+  <a href="https://discord.gg/SMUy2Gw"><img src="https://discord.com/api/guilds/368499635674808331/widget.png?style=shield"/><br></a>
   <a href="https://discord.gg/SMUy2Gw">Discord</a> •
   <a href="https://twitter.com/Purpzie">Twitter</a>
 </p>
