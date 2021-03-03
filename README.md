@@ -1,7 +1,16 @@
-I'm Purpzie, a college student from the USA. :heart:
+<h3 align="center">:heart: Hi, I'm Purpzie</h3>
 
+<p align="center">
+  <img src="https://discord.com/api/guilds/368499635674808331/widget.png?style=shield"/><br>
+  <a href="https://discord.gg/SMUy2Gw">Discord</a> •
+  <a href="https://twitter.com/Purpzie">Twitter</a>
+</p>
+
+---
+
+##### About
 - Self-taught
+- Maybe a little too obsessed with Factorio
 - Majoring in software engineering
 - Esoteric programming languages are cool
-- Maybe a little too obsessed with Factorio
-- I run a wholesome, bird-themed Discord community [<img src="https://discord.com/api/guilds/368499635674808331/widget.png?style=shield"/>](https://discord.gg/SMUy2Gw)
+- I run a wholesome, bird-themed Discord community
